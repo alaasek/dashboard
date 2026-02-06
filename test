@@ -1,0 +1,3 @@
+user: 'your_username',
+  password: 'your_password',
+  server: 'localhost', // or your SQL Server name
